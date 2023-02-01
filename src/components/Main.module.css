@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    /* margin-top: 44px; */
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 22px;
+    border-radius: 8px !important;
+    height: 100%;
+}
+
+
+.flex{
+    display: flex;
+    gap: 200px;
+}
+.bg{
+    background-color: white;
+    border-radius: 8px;
+    height: auto;
+    margin-bottom: 22px;
+}
+
+.newContainer{
+    margin-bottom: 12px;
+    height: auto;
+    padding-left: 176px;
+    padding-bottom: 22px;
+}
+
+.name{
+    margin-top: 24px;
+}
+
+.btn{
+    color: white;
+    background: red;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: none;
+    border-radius: 12px;
+}
+
+.btnDiv{
+    margin-top: 22px;
+}
